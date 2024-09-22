@@ -123,15 +123,15 @@ section{
 }
 
 .main-container .image{
-    width: 500px;
-    height: 80vh;
-    border-radius: 100%;
+    width: 400px;
+    border-radius: 25%;
     overflow: hidden;
     box-shadow: 0 0 50px #0a7b33;
 }
 
 .main-container .image img{
-    width: 100%;
+    width: 90%;
+    right: 0;
 }
 
 .main-container .image:hover{
