@@ -238,6 +238,7 @@ section{
     .main-container {
         display: flex;
         flex-direction: column;
+        height: 60%;
     }
 
     .nav-container .links{
